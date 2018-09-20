@@ -30,7 +30,7 @@ IN WIN OR TERMUX :
 IN WIN OR TERMUX:
 + python AccessToken-FB.py
 
-![alt text](https://imgur.com/a/GcakoxI)
+![alt text](https://i.imgur.com/yTQRTU5.png)
 
 # CONTACT ME :
 +           CODER : BEN_TH                 
