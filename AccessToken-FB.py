@@ -120,6 +120,7 @@ for i in phones:
 	session = requests.Session()
 	session.cookies.clear()
 	try:
+		res0  = session.get('https://www.facebook.com/')
 		res  = session.post('https://facebook.com/login.php', headers=header1, data=payload)
 	
 
