@@ -33,7 +33,6 @@ IN WIN OR TERMUX:
 ![alt text](https://i.imgur.com/yTQRTU5.png)
 
 # CONTACT ME :
-+           CODER : BEN_TH                 
-+           WHATSAPP : +201006698345         
++           CODER : BEN_TH                         
 +           FB : www.facebook.com/bassem.beso.18659         
       
